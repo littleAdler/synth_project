@@ -1,1 +1,1 @@
-# synth-project
+# synth_project
